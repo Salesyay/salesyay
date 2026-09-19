@@ -34,16 +34,3 @@ C • Python • JavaScript • SQL
 
 ### Sistemas
 Linux • Git • GitHub
-
-### Redes
-TCP/IP • IPv4 • IPv6 • Sockets • DNS • DHCP
-
----
-
-## 📚 Atualmente estudando
-
-- C e Network Programming
-- Redes de Computadores
-- Sistemas Operacionais
----
-
