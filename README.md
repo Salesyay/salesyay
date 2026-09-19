@@ -30,7 +30,7 @@ projetos práticos e experimentos.
 ## 🛠️ Tecnologias e ferramentas
 
 ### Linguagens
-C • Python • JavaScript • SQL
+https://photos.app.goo.gl/BcLDierXXaabfPj67 • Python • JavaScript • SQL
 
 ### Sistemas
 Linux • Git • GitHub
