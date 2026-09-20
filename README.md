@@ -1,4 +1,4 @@
-#👋 Olá, eu sou o João Sales.
+#👋 Olá, eu sou o João Sales.<br>
 🎓 Estudante de Ciência da Computação<br>🔐 Construindo minha carreira em Cybersecurity<br>🐧 Linux enthusiast<br>💻 Estudando C, Python e Redes de Computadores
 
 
